@@ -1,1 +1,12 @@
-# Gpt
+https://github.com/microsoft/Web-Dev-For-Beginners
+https://github.com/TheOdinProject/curriculum
+https://github.com/freeCodeCamp/freeCodeCamp
+https://github.com/zerodytrash/TikTok-Live-Connector
+https://github.com/socketio/socket.io
+https://github.com/colyseus/colyseus
+https://github.com/Serkanbyx/multiplayer-game-backend
+https://github.com/wasp-lang/open-saas
+https://github.com/eferrares/awesome-startup-resources
+https://github.com/kuchin/awesome-ceo
+https://github.com/OWASP/CheatSheetSeries
+https://github.com/brandonhimpfen/awesome-finance
