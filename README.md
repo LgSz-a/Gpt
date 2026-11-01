@@ -10,3 +10,4 @@ https://github.com/eferrares/awesome-startup-resources
 https://github.com/kuchin/awesome-ceo
 https://github.com/OWASP/CheatSheetSeries
 https://github.com/brandonhimpfen/awesome-finance
+https://github.com/ctresb/leis
